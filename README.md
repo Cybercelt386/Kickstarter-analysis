@@ -8,8 +8,7 @@ I performed my analysis by organizing the data and formatting it to be more read
 
 This is my line chart showing the trends of kickstarter campains for the theater subcatagory in the united kingdom. As demontrated in the chart above the majority of campains were succsessful. I was challeged by the pivot table because I could not figure out how to configure the settings to break down the information by month rather than years or quartiles. I sought assistance from my classmates on slack and they told me the problem I was facing was the way exell automaticly added info to my chart based on its own suggestions and that I needed to remove these additions in order to make it work properly. A further chalage I faced was with the instructions for the COUNTIFS algorithm I found the information to be vague and confusing. I overcame this by looking up the COUNTIFS function on Youtube then cross referencing with class members on slack to ensure that I was properly understanding the task instructions.
 
-![Stacked bar](https://user-images.githubusercontent.com/111584967/189787137-78748341-433c-40dc-aca7-1cd7e17cbfd4.PNG)
-
+![Stacked Bar](https://user-images.githubusercontent.com/111584967/189788447-4af6ef61-aa56-4520-95f7-5d49c5a61a10.PNG)
 
 ## Results 
 The result of my anayis show that if Louise wants to do a kicktarter theater production in the UK (GB) that her goal for her kickstarter should be within the 1000 t0 4999 range to ensure the best chance that her campain will be successfull. This data also shows that the majority of theater campains in the UK were succsessful. we can also tell that the month of may is the best time to launch her campian as the number of successful campains reaches its peak at this time.
